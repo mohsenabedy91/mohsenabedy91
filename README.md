@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a software developer with experience in Go, PHP, Docker, Kubernetes, Jenkins, and more.
 
-![Profile views](https://komarev.com/ghpvc/?username=mohsenabedy91&color=green)
+[//]: # (![Profile views]&#40;https://komarev.com/ghpvc/?username=mohsenabedy91&color=green&#41;)
 
 ## 🌱 Currently Learning
 - Advanced English

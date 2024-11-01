@@ -5,9 +5,10 @@ Welcome to my GitHub profile! I'm a software developer with experience in Go, PH
 [//]: # (![Profile views]&#40;https://komarev.com/ghpvc/?username=mohsenabedy91&color=green&#41;)
 
 ## 🌱 Currently Learning
-- Advanced English
+- practicing programming problems and my research
 - Cloud technologies
 - Deep in Golang
+- Advanced English
 
 ## 🛠️ Skills & Technologies
 ### Languages

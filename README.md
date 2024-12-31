@@ -55,7 +55,7 @@ Welcome to my GitHub profile! I'm a software developer with experience in Go, PH
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenabedy91&langs_count=8&hide=css,html&layout=compact&theme=radical&count_private=true&cache=1)
 
 ## 🔥 Streak stats
-[![Streak stats](http://github-readme-streak-stats.herokuapp.com?user=mohsenabedy91&theme=radical)
+![Streak stats](http://github-readme-streak-stats.herokuapp.com?user=mohsenabedy91&theme=radical)
 
 ## 📫 How to reach me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohsenabedy1991@gmail.com) 

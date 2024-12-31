@@ -50,9 +50,12 @@ Welcome to my GitHub profile! I'm a software developer with experience in Go, PH
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohsenabedy91&repo=polyglot-sentences)](https://github.com/mohsenabedy91/polyglot-sentences)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohsenabedy91&repo=news-aggregator)](https://github.com/mohsenabedy91/news-aggregator)
 
-## 📊 GitHub Stats
-![Mohsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohsenabedy91&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenabedy91&layout=compact&theme=radical)
+## 📊 GitHub Stats## 📊 GitHub Stats
+![Mohsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohsenabedy91&show_icons=true&theme=radical&count_private=true&cache=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenabedy91&langs_count=8&hide=css,html&layout=compact&theme=radical&count_private=true&cache=1)
+
+## 🔥 Streak stats
+[![Streak stats](http://github-readme-streak-stats.herokuapp.com?user=mohsenabedy91&theme=radical)
 
 ## 📫 How to reach me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohsenabedy1991@gmail.com) 

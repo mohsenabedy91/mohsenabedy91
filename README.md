@@ -49,6 +49,7 @@ Welcome to my GitHub profile! I'm a software developer with experience in Go, PH
 ## 🚀 Project Showcase
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohsenabedy91&repo=polyglot-sentences)](https://github.com/mohsenabedy91/polyglot-sentences)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohsenabedy91&repo=news-aggregator)](https://github.com/mohsenabedy91/news-aggregator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohsenabedy91&repo=crypto-wallet)](https://github.com/mohsenabedy91/crypto-wallet)
 
 ## 📊 GitHub Stats
 ![Mohsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohsenabedy91&show_icons=true&theme=radical&count_private=true&cache=1)
